@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/404", {data:[{}],fetch:{"data-v-f452c696:0":{date:"Tue, 05 May 2026 01:03:58 GMT"}},mutations:void 0});

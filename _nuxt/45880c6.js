@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{405:function(n,e,d){"use strict";d.r(e);var l={name:"Resume"},o=d(11),component=Object(o.a)(l,undefined,undefined,!1,null,null,null);e.default=component.exports}}]);
