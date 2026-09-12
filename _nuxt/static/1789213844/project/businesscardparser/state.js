@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1789213844",layout:"default",error:a,serverRendered:true,routePath:"\u002Fproject\u002Fbusinesscardparser",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"a9698428"}}}}(null));
