@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/resume", {data:[{}],fetch:{"data-v-f452c696:0":{date:"Tue, 08 Sep 2026 12:17:38 GMT"}},mutations:void 0});
